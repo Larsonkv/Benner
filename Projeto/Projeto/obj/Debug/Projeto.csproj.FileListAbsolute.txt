@@ -1,0 +1,154 @@
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\Projeto.dll.config
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\Projeto.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\Projeto.pdb
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\csc.exe
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\csc.exe.config
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\csc.rsp
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\csi.exe
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\csi.exe.config
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\csi.rsp
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.AppContext.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Console.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.IO.Compression.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Security.Claims.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.ValueTuple.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\vbc.exe
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\vbc.exe.config
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\vbc.rsp
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\EntityFramework.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\EntityFramework.SqlServer.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\System.Web.Helpers.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\System.Web.Mvc.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\System.Web.Razor.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\System.Web.Webpages.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\System.Web.Webpages.Razor.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\EntityFramework.xml
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\EntityFramework.SqlServer.xml
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\System.Web.Razor.xml
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\System.Web.Webpages.xml
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\System.Web.Webpages.Razor.xml
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\System.Web.Helpers.xml
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\System.Web.Mvc.xml
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\obj\Debug\Projeto.dll
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\Projeto.dll.config
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\Projeto.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\Projeto.pdb
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\csc.exe
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\csc.exe.config
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\csc.rsp
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\csi.exe
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\csi.exe.config
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\csi.rsp
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.AppContext.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Console.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.IO.Compression.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Security.Claims.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.ValueTuple.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\vbc.exe
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\vbc.exe.config
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\vbc.rsp
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\VBCSCompiler.exe
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\EntityFramework.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\EntityFramework.SqlServer.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\System.Web.Helpers.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\System.Web.Mvc.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\System.Web.Razor.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\System.Web.Webpages.Deployment.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\System.Web.Webpages.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\System.Web.Webpages.Razor.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\EntityFramework.xml
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\EntityFramework.SqlServer.xml
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\System.Web.Razor.xml
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\System.Web.Webpages.xml
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\System.Web.Webpages.Deployment.xml
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\System.Web.Webpages.Razor.xml
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\System.Web.Helpers.xml
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\System.Web.Mvc.xml
+C:\Users\stag023\Downloads\Projeto\Projeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stag023\Downloads\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\stag023\Downloads\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\stag023\Downloads\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\stag023\Downloads\Projeto\Projeto\obj\Debug\Projeto.dll
+C:\Users\stag023\Downloads\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\stag023\Downloads\Projeto\Projeto\obj\Debug\Projeto.Migrations._1.resources
+C:\Users\stag023\Downloads\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\stag023\Downloads\Projeto\Projeto\obj\Debug\Projeto.Migrations._2.resources
+C:\Users\stag023\Downloads\Projeto\Projeto\obj\Debug\Projeto.Migrations._3.resources
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\obj\Debug\Projeto.Migrations._1.resources
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\obj\Debug\Projeto.Migrations._2.resources
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\obj\Debug\Projeto.Migrations._3.resources
+C:\Users\Larson Kremer\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache

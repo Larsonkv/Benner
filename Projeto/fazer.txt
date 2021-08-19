@@ -1,0 +1,13 @@
+1 -  melhorar descrição das permissões
+Papel - Acessar página
+Papel - Cadastrar
+
+Usuário - Cadastrar
+
+2 - adicionar todas as permissoes na Classe Permissoes.cs
+
+3 - Criar lista para visualizar as permissoes na tela de EDIÇÃO do papel
+
+4 - Criar botão de adicionar e remover na tela de EDIÇÃO do papel
+
+5 - fazer a funcionalidade do botão adicionar (poder selecionar várias permissões e confirmar), isso vai salvar na tabela de PAPELPERMISSAO

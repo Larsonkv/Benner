@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Projeto.Models.Categoria>
+
+@{
+    ViewBag.Title = "Lista de Categorias";
+}
+
+<h2>Lista de Categorias</h2>
+
+<p>
+    @Html.ActionLink("Novo", "Create", new {}, new { @class = "btn btn-success" })
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th class="text-center">
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr id="categoria-@item.CategoriaId">
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td class="text-right">
+                @Html.ActionLink("Editar", "Edit", new { id = item.CategoriaId }, new { @class = "btn btn-warning" })
+                @*@Html.ActionLink("Deletar", "Delete", new { id = item.CategoriaId }, new { @class = "btn btn-danger" }*@
+                <button class="btn btn-danger" href="#" data-toggle="modal" data-target="#deleteModal" onclick="salvaId(@item.CategoriaId)">Deletar</button>
+            </td>
+        </tr>
+    }
+
+</table>
+
+<!-- Delete Modal-->
+<div class="modal fade" id="deleteModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                @*Input que guarda o ID da categoria que foi clicada*@
+                <input hidden id="categoriaIdModal" />
+
+                <h5 class="modal-title" id="exampleModalLabel">Pronto para deletar?</h5>
+                <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">Selecione "Deletar" abaixo caso queira realmente deletar esta Categoria.</div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancelar</button>
+                <button class="pull-right btn btn-primary" data-toggle="modal" data-target="#deleteModal" onclick="deleta()">Deletar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function salvaId(id) {
+        $("#categoriaIdModal").val(id);
+    }
+
+    function deleta() {
+        var id = $("#categoriaIdModal").val();
+        $.ajax({
+
+            url: "/Categoria/Delete",
+            data: { id: id},
+            type: "post",
+            dataType: "Json",
+            success: function (resposta) {
+                console.log(resposta);
+                $("#categoria-" + id).html("");
+            }
+        });
+    }
+</script>

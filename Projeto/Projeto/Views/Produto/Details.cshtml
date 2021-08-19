@@ -1,0 +1,66 @@
+﻿@model Projeto.Models.Produto
+
+@{
+    ViewBag.Title = "Detalhes do Produto";
+}
+
+<h2>Detalhes do Produto</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Categoria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Categoria.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Quantidade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Quantidade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Imagem)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Imagem)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Custo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Custo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Preco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Preco)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Novo", "Create", new { }, new { @class = "btn btn-success" })
+    @Html.ActionLink("Editar", "Edit", new { id = Model.ProdutoId }, new { @class = "btn btn-warning" })
+    @Html.ActionLink("Voltar", "Index", new { }, new { @class = "btn btn-primary" })
+</p>

@@ -1,0 +1,113 @@
+﻿@model IEnumerable<Projeto.Models.Produto>
+
+@{
+    ViewBag.Title = "Lista de Produtos";
+}
+
+<h2>Lista de Produtos</h2>
+
+<p>
+    @Html.ActionLink("Novo", "Create", new { }, new { @class = "btn btn-success" })
+
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th class="text-center">
+            @Html.DisplayNameFor(model => model.Categoria)
+        </th>
+        <th class="text-center">
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th class="text-center">
+            @Html.DisplayNameFor(model => model.Quantidade)
+        </th>
+        <th class="text-center">
+            @Html.DisplayNameFor(model => model.Imagem)
+        </th>
+        <th class="text-center">
+            @Html.DisplayNameFor(model => model.Custo)
+        </th>
+        <th class="text-center">
+            @Html.DisplayNameFor(model => model.Preco)
+        </th>
+        <th class="text-right">
+            Ações
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr id="produto-@item.ProdutoId">
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.Categoria.Nome)
+            </td>
+            <td class="text-center">
+                @Html.ActionLink(item.Nome, "Details", new { id = item.ProdutoId })
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.Quantidade)
+            </td>
+            <td class="text-center">
+                @if (!string.IsNullOrEmpty(item.Imagem))
+                {
+                    <img src="@Url.Content(item.Imagem)" alt="Image" style="width:80px;">
+                }
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.Custo)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.Preco)
+            </td>
+            <td class="text-right">
+                @Html.ActionLink("Editar", "Edit", new { id = item.ProdutoId }, new { @class = "btn btn-warning" })
+                @*@Html.ActionLink("Deletar", "Delete", new { id = item.ProdutoId }, new { @class = "btn btn-danger" })*@
+                <button class="btn btn-danger" href="#" data-toggle="modal" data-target="#deleteModal" onclick="salvaId(@item.ProdutoId)">Deletar</button>
+            </td>
+        </tr>
+    }
+</table>
+
+<!-- Delete Modal-->
+<div class="modal fade" id="deleteModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                @*Input que guarda o ID da categoria que foi clicada*@
+                <input hidden id="produtoIdModal" />
+
+                <h5 class="modal-title" id="exampleModalLabel">Pronto para deletar?</h5>
+                <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">Selecione "Deletar" abaixo caso queira realmente deletar esta Categoria.</div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancelar</button>
+                <button class="pull-right btn btn-primary" data-toggle="modal" data-target="#deleteModal" onclick="deleta()">Deletar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function salvaId(id) {
+        $("#produtoIdModal").val(id);
+    }
+
+    function deleta() {
+        var id = $("#produtoIdModal").val();
+        $.ajax({
+
+            url: "/Produto/Delete",
+            data: { id: id },
+            type: "post",
+            dataType: "Json",
+            success: function (resposta) {
+                console.log(resposta);
+                $("#produto-" + id).html("");
+            }
+        });
+    }
+</script>

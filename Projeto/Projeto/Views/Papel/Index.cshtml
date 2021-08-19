@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Projeto.Models.Papel>
+
+@{
+    ViewBag.Title = "Lista de Papeis";
+}
+
+<h2>Lista de Papeis</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th class="text-center">
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td class="text-center">
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+    </tr>
+}
+</table>
